@@ -8,6 +8,7 @@ The stats markdown file goes from creating a counting function up untill create 
 * numpy
 * pandas
 * matplotlib
-
-<span style="color:red">***This respository was not made with the intent of being applied it is simply used to define my knowledge of statistics and programming!***</span>
+```diff
+- ***This respository was not made with the intent of being applied it is simply used to define my knowledge of statistics and programming!***<
+```
 
