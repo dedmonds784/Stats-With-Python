@@ -8,7 +8,5 @@ The stats markdown file goes from creating a counting function up untill create 
 * numpy
 * pandas
 * matplotlib
-```diff
-- ***This respository was not made with the intent of being applied it is simply used to define my knowledge of statistics and programming!***<
-```
+***This respository was not made with the intent of being applied it is simply used to define my knowledge of statistics and programming!***<
 
